@@ -1,0 +1,525 @@
+{
+  "id": "heresay-homicide-rookie",
+  "title": "Heresay Homicide \u2014 Level 2: Rookie Detective Case",
+  "venue": "Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge",
+  "description": "Level 2: Rookie Detective Case for Heresay Homicide. Focus: timeline contradictions.",
+  "answerKey": {
+    "culprit": "Calvin Reed",
+    "method": "Locked Elise in the rear appraisal room and staged a panic attack with a dust-filled antique respirator",
+    "motive": "To hide a forged consignment ledger tied to missing dealer payments",
+    "keyEvidence": "rear-room key log, respirator fiber sample, and ledger page metadata",
+    "explanation": "Calvin Reed is exposed when rumors are separated from verified proof. The shared Heresay/Circa passage explains opportunity, rear-room key log, respirator fiber sample, and ledger page metadata proves the cover-up, and the motive was to hide a forged consignment ledger tied to missing dealer payments."
+  },
+  "publicClues": [
+    {
+      "id": "rookie-pub-000",
+      "unlockSec": 0,
+      "title": "Case Opened",
+      "text": "Heresay Homicide begins at Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge. This session is Level 2: Rookie Detective Case."
+    },
+    {
+      "id": "rookie-pub-001",
+      "unlockSec": 10,
+      "title": "Venue Note",
+      "text": "The Heresay Speakeasy shares a wall, service passage, storage, and antique displays with Circa 1857. Movement between the bar and antique store matters."
+    },
+    {
+      "id": "rookie-pub-002",
+      "unlockSec": 300,
+      "title": "Checkpoint 1 Available",
+      "text": "Round 1 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "rookie-pub-003",
+      "unlockSec": 600,
+      "title": "Checkpoint 2 Available",
+      "text": "Round 2 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "rookie-pub-004",
+      "unlockSec": 900,
+      "title": "Checkpoint 3 Available",
+      "text": "Round 3 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "rookie-pub-005",
+      "unlockSec": 1200,
+      "title": "Checkpoint 4 Available",
+      "text": "Round 4 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "rookie-pub-006",
+      "unlockSec": 1440,
+      "title": "Final Accusation Open",
+      "text": "Final questions are open. Complete all 10 total questions before the lock."
+    }
+  ],
+  "apps": {
+    "phone": [
+      {
+        "id": "rookie-phone-1",
+        "unlockSec": 60,
+        "title": "Phone Evidence 1",
+        "text": "Elise missed a call from Calvin Reed minutes before the staff passage door opened."
+      },
+      {
+        "id": "rookie-phone-2",
+        "unlockSec": 660,
+        "title": "Phone Evidence 2",
+        "text": "A recovered audio fragment captures someone saying, \u201cDon\u2019t repeat what you heard in the antique room.\u201d"
+      }
+    ],
+    "messages": [
+      {
+        "id": "rookie-messages-1",
+        "unlockSec": 180,
+        "title": "Messages Evidence 1",
+        "text": "Elise texted a friend: \u201cThe rumor is wrong. I found the paperwork inside Circa.\u201d"
+      },
+      {
+        "id": "rookie-messages-2",
+        "unlockSec": 780,
+        "title": "Messages Evidence 2",
+        "text": "A deleted reply from Calvin says, \u201cYou should have left hearsay alone.\u201d"
+      }
+    ],
+    "maps": [
+      {
+        "id": "rookie-maps-1",
+        "unlockSec": 300,
+        "title": "Maps Evidence 1",
+        "text": "Location pings place Elise between the speakeasy hallway and the Circa 1857 back room."
+      },
+      {
+        "id": "rookie-maps-2",
+        "unlockSec": 900,
+        "title": "Maps Evidence 2",
+        "text": "Calvin\u2019s device appears near the shared passage during the evidence gap."
+      }
+    ],
+    "bank": [
+      {
+        "id": "rookie-bank-1",
+        "unlockSec": 420,
+        "title": "Bank Evidence 1",
+        "text": "A payment tied to the antique-store event account was edited the same afternoon."
+      },
+      {
+        "id": "rookie-bank-2",
+        "unlockSec": 1020,
+        "title": "Bank Evidence 2",
+        "text": "The transaction memo matches the motive trail: to hide a forged consignment ledger tied to missing dealer payments."
+      }
+    ],
+    "photos": [
+      {
+        "id": "rookie-photos-1",
+        "unlockSec": 540,
+        "title": "Photos Evidence 1",
+        "text": "A guest photo captures the antique display case behind Elise before the crowd moves."
+      },
+      {
+        "id": "rookie-photos-2",
+        "unlockSec": 1140,
+        "title": "Photos Evidence 2",
+        "text": "Zooming the reflection shows Calvin near the service passage, not at the place witnesses claimed."
+      }
+    ],
+    "social": [
+      {
+        "id": "rookie-social-1",
+        "unlockSec": 660,
+        "title": "Social Evidence 1",
+        "text": "A rumor post claims a stranger did it, but the upload time is after the hallway camera gap."
+      },
+      {
+        "id": "rookie-social-2",
+        "unlockSec": 1260,
+        "title": "Social Evidence 2",
+        "text": "An edited caption removes a line about Elise \u201cchecking the Circa ledger.\u201d"
+      }
+    ],
+    "contacts": [
+      {
+        "id": "rookie-contacts-1",
+        "unlockSec": 780,
+        "title": "Contacts Evidence 1",
+        "text": "Elise saved Calvin Reed with a note: \u201cask about Circa discrepancy.\u201d"
+      },
+      {
+        "id": "rookie-contacts-2",
+        "unlockSec": 1380,
+        "title": "Contacts Evidence 2",
+        "text": "A staff contact card lists who had keys to the shared antique-store passage."
+      }
+    ],
+    "notes": [
+      {
+        "id": "rookie-notes-1",
+        "unlockSec": 900,
+        "title": "Notes Evidence 1",
+        "text": "Detective note: hearsay points everywhere, but only confirmed access narrows the suspect list."
+      },
+      {
+        "id": "rookie-notes-2",
+        "unlockSec": 60,
+        "title": "Notes Evidence 2",
+        "text": "Elise\u2019s note reads: \u201cIf I disappear, check the antique inventory first.\u201d"
+      }
+    ],
+    "files": [
+      {
+        "id": "rookie-files-1",
+        "unlockSec": 1020,
+        "title": "Files Evidence 1",
+        "text": "File export shows the key proof: rear-room key log, respirator fiber sample, and ledger page metadata."
+      },
+      {
+        "id": "rookie-files-2",
+        "unlockSec": 180,
+        "title": "Files Evidence 2",
+        "text": "Metadata confirms the incriminating file was opened before the public argument."
+      }
+    ],
+    "browser": [
+      {
+        "id": "rookie-browser-1",
+        "unlockSec": 1140,
+        "title": "Browser Evidence 1",
+        "text": "Elise searched \u201chow to verify antique appraisal fraud\u201d before arriving."
+      },
+      {
+        "id": "rookie-browser-2",
+        "unlockSec": 300,
+        "title": "Browser Evidence 2",
+        "text": "Someone searched \u201chow long before deleted voicemail metadata updates\u201d after the collapse."
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "id": "hh-rookie-round-1",
+      "title": "Round 1: The Rumor Starts",
+      "shortTitle": "R1",
+      "startSec": 0,
+      "endSec": 300,
+      "objective": "Separate the first rumor from what the scene actually proves.",
+      "dialogue": "Round 1 is open. Focus on the rumor starts. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 1 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-rookie-round-2",
+      "title": "Round 2: The Antique Store Passage",
+      "shortTitle": "R2",
+      "startSec": 300,
+      "endSec": 600,
+      "objective": "Compare movement between Heresay Speakeasy and the attached Circa 1857 antique store.",
+      "dialogue": "Round 2 is open. Focus on the antique store passage. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 2 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-rookie-round-3",
+      "title": "Round 3: The Statement Breaks",
+      "shortTitle": "R3",
+      "startSec": 600,
+      "endSec": 900,
+      "objective": "Find which witness account cannot survive the digital evidence.",
+      "dialogue": "Round 3 is open. Focus on the statement breaks. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 3 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-rookie-round-4",
+      "title": "Round 4: The Motive Behind the Whisper",
+      "shortTitle": "R4",
+      "startSec": 900,
+      "endSec": 1200,
+      "objective": "Connect the money, reputation, or fraud motive to the suspect.",
+      "dialogue": "Round 4 is open. Focus on the motive behind the whisper. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 4 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-rookie-round-5",
+      "title": "Round 5: The Truth Under the Hearsay",
+      "shortTitle": "R5",
+      "startSec": 1200,
+      "endSec": 1440,
+      "objective": "Use the final physical clue to name the killer and method.",
+      "dialogue": "Round 5 is open. Focus on the truth under the hearsay. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 5 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    }
+  ],
+  "openingNarration": "Detectives, welcome to Heresay Homicide. You are playing Level 2: Rookie Detective Case. Heresay Speakeasy is attached to Circa 1857 antique store, so every rumor must be tested against movement, access, and physical evidence.",
+  "revealScript": "Case closed. This was Level 2: Rookie Detective Case. The culprit was Calvin Reed. The method: locked Elise in the rear appraisal room and staged a panic attack with a dust-filled antique respirator. The motive: to hide a forged consignment ledger tied to missing dealer payments. The proof: rear-room key log, respirator fiber sample, and ledger page metadata.",
+  "accusation": {
+    "questions": [
+      {
+        "id": "cp1",
+        "stage": "checkpoint",
+        "roundId": "hh-rookie-round-1",
+        "unlockSec": 300,
+        "prompt": "Checkpoint 1: What should detectives treat as evidence instead of hearsay?",
+        "correctOptionId": "confirmed-scene-detail",
+        "options": [
+          {
+            "id": "a-reposted-rumor-with-no-timestamp",
+            "label": "A reposted rumor with no timestamp"
+          },
+          {
+            "id": "a-bartender-repeating-what-another-patro",
+            "label": "A bartender repeating what another patron said"
+          },
+          {
+            "id": "confirmed-scene-detail",
+            "label": "The confirmed scene detail that matches the physical evidence"
+          },
+          {
+            "id": "a-guest-saying-they-heard-a-stranger-arg",
+            "label": "A guest saying they heard a stranger arguing"
+          }
+        ]
+      },
+      {
+        "id": "cp2",
+        "stage": "checkpoint",
+        "roundId": "hh-rookie-round-2",
+        "unlockSec": 600,
+        "prompt": "Checkpoint 2: Why does the Circa 1857 connection matter?",
+        "correctOptionId": "shared-passage",
+        "options": [
+          {
+            "id": "the-building-has-old-furniture",
+            "label": "The building has old furniture"
+          },
+          {
+            "id": "the-crowd-liked-the-vintage-decor",
+            "label": "The crowd liked the vintage decor"
+          },
+          {
+            "id": "shared-passage",
+            "label": "The shared passage lets someone move between the speakeasy and antique store unseen"
+          },
+          {
+            "id": "the-antique-store-proves-the-victim-was-",
+            "label": "The antique store proves the victim was shopping"
+          }
+        ]
+      },
+      {
+        "id": "cp3",
+        "stage": "checkpoint",
+        "roundId": "hh-rookie-round-3",
+        "unlockSec": 900,
+        "prompt": "Checkpoint 3: Which clue breaks the witness rumor?",
+        "correctOptionId": "reflection-timestamp",
+        "options": [
+          {
+            "id": "a-receipt-for-ordinary-drinks",
+            "label": "A receipt for ordinary drinks"
+          },
+          {
+            "id": "a-blurry-photo-of-the-crowd",
+            "label": "A blurry photo of the crowd"
+          },
+          {
+            "id": "reflection-timestamp",
+            "label": "The timestamp/reflection places Calvin near the passage"
+          },
+          {
+            "id": "a-rumor-that-the-lights-flickered",
+            "label": "A rumor that the lights flickered"
+          }
+        ]
+      },
+      {
+        "id": "cp4",
+        "stage": "checkpoint",
+        "roundId": "hh-rookie-round-4",
+        "unlockSec": 1200,
+        "prompt": "Checkpoint 4: What points to motive?",
+        "correctOptionId": "motive-trail",
+        "options": [
+          {
+            "id": "a-disagreement-about-parking",
+            "label": "A disagreement about parking"
+          },
+          {
+            "id": "a-random-argument-with-no-paper-trail",
+            "label": "A random argument with no paper trail"
+          },
+          {
+            "id": "motive-trail",
+            "label": "To hide a forged consignment ledger tied to missing dealer payments"
+          },
+          {
+            "id": "jealousy-over-karaoke-seating",
+            "label": "Jealousy over karaoke seating"
+          }
+        ]
+      },
+      {
+        "id": "cp5",
+        "stage": "checkpoint",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Checkpoint 5: What evidence turns suspicion into proof?",
+        "correctOptionId": "key-proof",
+        "options": [
+          {
+            "id": "a-witness-who-changed-stories-twice",
+            "label": "A witness who changed stories twice"
+          },
+          {
+            "id": "a-drink-napkin-with-no-fingerprints",
+            "label": "A drink napkin with no fingerprints"
+          },
+          {
+            "id": "key-proof",
+            "label": "rear-room key log, respirator fiber sample, and ledger page metadata"
+          },
+          {
+            "id": "a-rumor-thread-with-no-source",
+            "label": "A rumor thread with no source"
+          }
+        ]
+      },
+      {
+        "id": "final-1",
+        "stage": "final",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 1: Who killed Elise Mercier?",
+        "correctOptionId": "culprit",
+        "options": [
+          {
+            "id": "brielle-st-james",
+            "label": "Brielle St. James"
+          },
+          {
+            "id": "marcus-duvall",
+            "label": "Marcus Duvall"
+          },
+          {
+            "id": "culprit",
+            "label": "Calvin Reed"
+          },
+          {
+            "id": "nora-bellamy",
+            "label": "Nora Bellamy"
+          }
+        ]
+      },
+      {
+        "id": "final-2",
+        "stage": "final",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 2: What was the method?",
+        "correctOptionId": "method",
+        "options": [
+          {
+            "id": "a-fall-caused-by-the-crowd",
+            "label": "A fall caused by the crowd"
+          },
+          {
+            "id": "an-accidental-mix-up-at-the-bar",
+            "label": "An accidental mix-up at the bar"
+          },
+          {
+            "id": "method",
+            "label": "Locked Elise in the rear appraisal room and staged a panic attack with a dust-filled antique respirator"
+          },
+          {
+            "id": "a-random-attack-outside-the-building",
+            "label": "A random attack outside the building"
+          }
+        ]
+      },
+      {
+        "id": "final-3",
+        "stage": "final",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 3: Why was Elise killed?",
+        "correctOptionId": "motive",
+        "options": [
+          {
+            "id": "because-she-arrived-late",
+            "label": "Because she arrived late"
+          },
+          {
+            "id": "because-she-insulted-the-decor",
+            "label": "Because she insulted the decor"
+          },
+          {
+            "id": "motive",
+            "label": "To hide a forged consignment ledger tied to missing dealer payments"
+          },
+          {
+            "id": "because-she-won-a-trivia-prize",
+            "label": "Because she won a trivia prize"
+          }
+        ]
+      },
+      {
+        "id": "final-4",
+        "stage": "final",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 4: Which location detail is essential?",
+        "correctOptionId": "venue-link",
+        "options": [
+          {
+            "id": "the-bar-served-cocktails",
+            "label": "The bar served cocktails"
+          },
+          {
+            "id": "the-antique-store-had-price-tags",
+            "label": "The antique store had price tags"
+          },
+          {
+            "id": "venue-link",
+            "label": "Heresay Speakeasy is attached to Circa 1857, creating a shared hidden movement path"
+          },
+          {
+            "id": "the-venue-has-a-front-door",
+            "label": "The venue has a front door"
+          }
+        ]
+      },
+      {
+        "id": "final-5",
+        "stage": "final",
+        "roundId": "hh-rookie-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 5: Which idea best describes the solution?",
+        "correctOptionId": "truth-not-rumor",
+        "options": [
+          {
+            "id": "every-rumor-was-equally-reliable",
+            "label": "Every rumor was equally reliable"
+          },
+          {
+            "id": "the-first-suspect-named-by-the-crowd-had",
+            "label": "The first suspect named by the crowd had to be guilty"
+          },
+          {
+            "id": "truth-not-rumor",
+            "label": "The killer used gossip as cover, but the physical and digital evidence exposed the truth"
+          },
+          {
+            "id": "the-loudest-witness-was-automatically-ri",
+            "label": "The loudest witness was automatically right"
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty": "Rookie Detective",
+  "difficultyLabel": "Level 2: Rookie Detective Case",
+  "gameId": "heresay-homicide",
+  "gameTitle": "Heresay Homicide",
+  "levelId": "rookie",
+  "levelName": "Rookie Detective",
+  "levelLabel": "Level 2: Rookie Detective Case",
+  "caseSubtitle": "The Back-Room Whisper"
+}

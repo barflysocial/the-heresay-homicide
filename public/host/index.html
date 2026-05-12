@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Heresay Homicide — Host</title>
+  <link rel="stylesheet" href="/shared/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div>
+        <h1>Heresay Homicide Host</h1>
+        <small>Case 001 · Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge · 5 Difficulty Levels</small>
+      </div>
+      <div class="statusPills">
+        <span class="pill good">Host</span>
+        <span class="pill">5 Levels Enabled</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>Create Table Session</h2>
+      <div class="row">
+        <div>
+          <label>Table / Team Name</label>
+          <input id="tableName" value="Team 1" />
+        </div>
+        <div>
+          <label>Game Level</label>
+          <select id="truthPackSelect"></select>
+        </div>
+        <div>
+          <label>Paid Player Spots</label>
+          <input id="playerCap" type="number" min="1" max="100" value="25" />
+        </div>
+      </div>
+      <div class="actions" style="margin-top:14px">
+        <button id="createBtn">Create Session</button>
+        <button class="secondary" id="refreshBtn">Refresh</button>
+      </div>
+      <p class="mini">Choose the Heresay Homicide level for this session, then give each paid player one personal access code. Players join at <b>/player/</b> with their access code</p>
+    </section>
+
+    <section class="card">
+      <h2>Active Tables</h2>
+      <div id="tables"></div>
+    </section>
+  </main>
+
+  <script src="/host/host.js"></script>
+</body>
+</html>
