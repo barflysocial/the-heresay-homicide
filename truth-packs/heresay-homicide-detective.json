@@ -1,0 +1,525 @@
+{
+  "id": "heresay-homicide-detective",
+  "title": "Heresay Homicide \u2014 Level 4: Detective Case",
+  "venue": "Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge",
+  "description": "Level 4: Detective Case for Heresay Homicide. Focus: planted evidence.",
+  "answerKey": {
+    "culprit": "Marcus Duvall",
+    "method": "Cut power to the speakeasy hallway and struck Elise with a brass scale weight from the antique store",
+    "motive": "To recover a hidden ledger proving he had been skimming cash from after-hours events",
+    "keyEvidence": "breaker panel timestamp, brass scale chip, and hidden ledger fibers",
+    "explanation": "Marcus Duvall is exposed when rumors are separated from verified proof. The shared Heresay/Circa passage explains opportunity, breaker panel timestamp, brass scale chip, and hidden ledger fibers proves the cover-up, and the motive was to recover a hidden ledger proving he had been skimming cash from after-hours events."
+  },
+  "publicClues": [
+    {
+      "id": "detective-pub-000",
+      "unlockSec": 0,
+      "title": "Case Opened",
+      "text": "Heresay Homicide begins at Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge. This session is Level 4: Detective Case."
+    },
+    {
+      "id": "detective-pub-001",
+      "unlockSec": 10,
+      "title": "Venue Note",
+      "text": "The Heresay Speakeasy shares a wall, service passage, storage, and antique displays with Circa 1857. Movement between the bar and antique store matters."
+    },
+    {
+      "id": "detective-pub-002",
+      "unlockSec": 300,
+      "title": "Checkpoint 1 Available",
+      "text": "Round 1 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "detective-pub-003",
+      "unlockSec": 600,
+      "title": "Checkpoint 2 Available",
+      "text": "Round 2 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "detective-pub-004",
+      "unlockSec": 900,
+      "title": "Checkpoint 3 Available",
+      "text": "Round 3 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "detective-pub-005",
+      "unlockSec": 1200,
+      "title": "Checkpoint 4 Available",
+      "text": "Round 4 is ready. Review evidence, not gossip, before answering."
+    },
+    {
+      "id": "detective-pub-006",
+      "unlockSec": 1440,
+      "title": "Final Accusation Open",
+      "text": "Final questions are open. Complete all 10 total questions before the lock."
+    }
+  ],
+  "apps": {
+    "phone": [
+      {
+        "id": "detective-phone-1",
+        "unlockSec": 60,
+        "title": "Phone Evidence 1",
+        "text": "Elise missed a call from Marcus Duvall minutes before the staff passage door opened."
+      },
+      {
+        "id": "detective-phone-2",
+        "unlockSec": 660,
+        "title": "Phone Evidence 2",
+        "text": "A recovered audio fragment captures someone saying, \u201cDon\u2019t repeat what you heard in the antique room.\u201d"
+      }
+    ],
+    "messages": [
+      {
+        "id": "detective-messages-1",
+        "unlockSec": 180,
+        "title": "Messages Evidence 1",
+        "text": "Elise texted a friend: \u201cThe rumor is wrong. I found the paperwork inside Circa.\u201d"
+      },
+      {
+        "id": "detective-messages-2",
+        "unlockSec": 780,
+        "title": "Messages Evidence 2",
+        "text": "A deleted reply from Marcus says, \u201cYou should have left hearsay alone.\u201d"
+      }
+    ],
+    "maps": [
+      {
+        "id": "detective-maps-1",
+        "unlockSec": 300,
+        "title": "Maps Evidence 1",
+        "text": "Location pings place Elise between the speakeasy hallway and the Circa 1857 back room."
+      },
+      {
+        "id": "detective-maps-2",
+        "unlockSec": 900,
+        "title": "Maps Evidence 2",
+        "text": "Marcus\u2019s device appears near the shared passage during the evidence gap."
+      }
+    ],
+    "bank": [
+      {
+        "id": "detective-bank-1",
+        "unlockSec": 420,
+        "title": "Bank Evidence 1",
+        "text": "A payment tied to the antique-store event account was edited the same afternoon."
+      },
+      {
+        "id": "detective-bank-2",
+        "unlockSec": 1020,
+        "title": "Bank Evidence 2",
+        "text": "The transaction memo matches the motive trail: to recover a hidden ledger proving he had been skimming cash from after-hours events."
+      }
+    ],
+    "photos": [
+      {
+        "id": "detective-photos-1",
+        "unlockSec": 540,
+        "title": "Photos Evidence 1",
+        "text": "A guest photo captures the antique display case behind Elise before the crowd moves."
+      },
+      {
+        "id": "detective-photos-2",
+        "unlockSec": 1140,
+        "title": "Photos Evidence 2",
+        "text": "Zooming the reflection shows Marcus near the service passage, not at the place witnesses claimed."
+      }
+    ],
+    "social": [
+      {
+        "id": "detective-social-1",
+        "unlockSec": 660,
+        "title": "Social Evidence 1",
+        "text": "A rumor post claims a stranger did it, but the upload time is after the hallway camera gap."
+      },
+      {
+        "id": "detective-social-2",
+        "unlockSec": 1260,
+        "title": "Social Evidence 2",
+        "text": "An edited caption removes a line about Elise \u201cchecking the Circa ledger.\u201d"
+      }
+    ],
+    "contacts": [
+      {
+        "id": "detective-contacts-1",
+        "unlockSec": 780,
+        "title": "Contacts Evidence 1",
+        "text": "Elise saved Marcus Duvall with a note: \u201cask about Circa discrepancy.\u201d"
+      },
+      {
+        "id": "detective-contacts-2",
+        "unlockSec": 1380,
+        "title": "Contacts Evidence 2",
+        "text": "A staff contact card lists who had keys to the shared antique-store passage."
+      }
+    ],
+    "notes": [
+      {
+        "id": "detective-notes-1",
+        "unlockSec": 900,
+        "title": "Notes Evidence 1",
+        "text": "Detective note: hearsay points everywhere, but only confirmed access narrows the suspect list."
+      },
+      {
+        "id": "detective-notes-2",
+        "unlockSec": 60,
+        "title": "Notes Evidence 2",
+        "text": "Elise\u2019s note reads: \u201cIf I disappear, check the antique inventory first.\u201d"
+      }
+    ],
+    "files": [
+      {
+        "id": "detective-files-1",
+        "unlockSec": 1020,
+        "title": "Files Evidence 1",
+        "text": "File export shows the key proof: breaker panel timestamp, brass scale chip, and hidden ledger fibers."
+      },
+      {
+        "id": "detective-files-2",
+        "unlockSec": 180,
+        "title": "Files Evidence 2",
+        "text": "Metadata confirms the incriminating file was opened before the public argument."
+      }
+    ],
+    "browser": [
+      {
+        "id": "detective-browser-1",
+        "unlockSec": 1140,
+        "title": "Browser Evidence 1",
+        "text": "Elise searched \u201chow to verify antique appraisal fraud\u201d before arriving."
+      },
+      {
+        "id": "detective-browser-2",
+        "unlockSec": 300,
+        "title": "Browser Evidence 2",
+        "text": "Someone searched \u201chow long before deleted voicemail metadata updates\u201d after the collapse."
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "id": "hh-detective-round-1",
+      "title": "Round 1: The Rumor Starts",
+      "shortTitle": "R1",
+      "startSec": 0,
+      "endSec": 300,
+      "objective": "Separate the first rumor from what the scene actually proves.",
+      "dialogue": "Round 1 is open. Focus on the rumor starts. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 1 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-detective-round-2",
+      "title": "Round 2: The Antique Store Passage",
+      "shortTitle": "R2",
+      "startSec": 300,
+      "endSec": 600,
+      "objective": "Compare movement between Heresay Speakeasy and the attached Circa 1857 antique store.",
+      "dialogue": "Round 2 is open. Focus on the antique store passage. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 2 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-detective-round-3",
+      "title": "Round 3: The Statement Breaks",
+      "shortTitle": "R3",
+      "startSec": 600,
+      "endSec": 900,
+      "objective": "Find which witness account cannot survive the digital evidence.",
+      "dialogue": "Round 3 is open. Focus on the statement breaks. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 3 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-detective-round-4",
+      "title": "Round 4: The Motive Behind the Whisper",
+      "shortTitle": "R4",
+      "startSec": 900,
+      "endSec": 1200,
+      "objective": "Connect the money, reputation, or fraud motive to the suspect.",
+      "dialogue": "Round 4 is open. Focus on the motive behind the whisper. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 4 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    },
+    {
+      "id": "hh-detective-round-5",
+      "title": "Round 5: The Truth Under the Hearsay",
+      "shortTitle": "R5",
+      "startSec": 1200,
+      "endSec": 1440,
+      "objective": "Use the final physical clue to name the killer and method.",
+      "dialogue": "Round 5 is open. Focus on the truth under the hearsay. In this case, rumors are not proof until evidence confirms them.",
+      "countdownReview": "Checkpoint 5 is nearly complete. Decide what the evidence proves before the next rumor spreads."
+    }
+  ],
+  "openingNarration": "Detectives, welcome to Heresay Homicide. You are playing Level 4: Detective Case. Heresay Speakeasy is attached to Circa 1857 antique store, so every rumor must be tested against movement, access, and physical evidence.",
+  "revealScript": "Case closed. This was Level 4: Detective Case. The culprit was Marcus Duvall. The method: cut power to the speakeasy hallway and struck Elise with a brass scale weight from the antique store. The motive: to recover a hidden ledger proving he had been skimming cash from after-hours events. The proof: breaker panel timestamp, brass scale chip, and hidden ledger fibers.",
+  "accusation": {
+    "questions": [
+      {
+        "id": "cp1",
+        "stage": "checkpoint",
+        "roundId": "hh-detective-round-1",
+        "unlockSec": 300,
+        "prompt": "Checkpoint 1: What should detectives treat as evidence instead of hearsay?",
+        "correctOptionId": "confirmed-scene-detail",
+        "options": [
+          {
+            "id": "confirmed-scene-detail",
+            "label": "The confirmed scene detail that matches the physical evidence"
+          },
+          {
+            "id": "a-guest-saying-they-heard-a-stranger-arg",
+            "label": "A guest saying they heard a stranger arguing"
+          },
+          {
+            "id": "a-reposted-rumor-with-no-timestamp",
+            "label": "A reposted rumor with no timestamp"
+          },
+          {
+            "id": "a-bartender-repeating-what-another-patro",
+            "label": "A bartender repeating what another patron said"
+          }
+        ]
+      },
+      {
+        "id": "cp2",
+        "stage": "checkpoint",
+        "roundId": "hh-detective-round-2",
+        "unlockSec": 600,
+        "prompt": "Checkpoint 2: Why does the Circa 1857 connection matter?",
+        "correctOptionId": "shared-passage",
+        "options": [
+          {
+            "id": "shared-passage",
+            "label": "The shared passage lets someone move between the speakeasy and antique store unseen"
+          },
+          {
+            "id": "the-antique-store-proves-the-victim-was-",
+            "label": "The antique store proves the victim was shopping"
+          },
+          {
+            "id": "the-building-has-old-furniture",
+            "label": "The building has old furniture"
+          },
+          {
+            "id": "the-crowd-liked-the-vintage-decor",
+            "label": "The crowd liked the vintage decor"
+          }
+        ]
+      },
+      {
+        "id": "cp3",
+        "stage": "checkpoint",
+        "roundId": "hh-detective-round-3",
+        "unlockSec": 900,
+        "prompt": "Checkpoint 3: Which clue breaks the witness rumor?",
+        "correctOptionId": "reflection-timestamp",
+        "options": [
+          {
+            "id": "reflection-timestamp",
+            "label": "The timestamp/reflection places Marcus near the passage"
+          },
+          {
+            "id": "a-rumor-that-the-lights-flickered",
+            "label": "A rumor that the lights flickered"
+          },
+          {
+            "id": "a-receipt-for-ordinary-drinks",
+            "label": "A receipt for ordinary drinks"
+          },
+          {
+            "id": "a-blurry-photo-of-the-crowd",
+            "label": "A blurry photo of the crowd"
+          }
+        ]
+      },
+      {
+        "id": "cp4",
+        "stage": "checkpoint",
+        "roundId": "hh-detective-round-4",
+        "unlockSec": 1200,
+        "prompt": "Checkpoint 4: What points to motive?",
+        "correctOptionId": "motive-trail",
+        "options": [
+          {
+            "id": "motive-trail",
+            "label": "To recover a hidden ledger proving he had been skimming cash from after-hours events"
+          },
+          {
+            "id": "jealousy-over-karaoke-seating",
+            "label": "Jealousy over karaoke seating"
+          },
+          {
+            "id": "a-disagreement-about-parking",
+            "label": "A disagreement about parking"
+          },
+          {
+            "id": "a-random-argument-with-no-paper-trail",
+            "label": "A random argument with no paper trail"
+          }
+        ]
+      },
+      {
+        "id": "cp5",
+        "stage": "checkpoint",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Checkpoint 5: What evidence turns suspicion into proof?",
+        "correctOptionId": "key-proof",
+        "options": [
+          {
+            "id": "key-proof",
+            "label": "breaker panel timestamp, brass scale chip, and hidden ledger fibers"
+          },
+          {
+            "id": "a-rumor-thread-with-no-source",
+            "label": "A rumor thread with no source"
+          },
+          {
+            "id": "a-witness-who-changed-stories-twice",
+            "label": "A witness who changed stories twice"
+          },
+          {
+            "id": "a-drink-napkin-with-no-fingerprints",
+            "label": "A drink napkin with no fingerprints"
+          }
+        ]
+      },
+      {
+        "id": "final-1",
+        "stage": "final",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 1: Who killed Elise Mercier?",
+        "correctOptionId": "culprit",
+        "options": [
+          {
+            "id": "culprit",
+            "label": "Marcus Duvall"
+          },
+          {
+            "id": "nora-bellamy",
+            "label": "Nora Bellamy"
+          },
+          {
+            "id": "calvin-reed",
+            "label": "Calvin Reed"
+          },
+          {
+            "id": "brielle-st-james",
+            "label": "Brielle St. James"
+          }
+        ]
+      },
+      {
+        "id": "final-2",
+        "stage": "final",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 2: What was the method?",
+        "correctOptionId": "method",
+        "options": [
+          {
+            "id": "method",
+            "label": "Cut power to the speakeasy hallway and struck Elise with a brass scale weight from the antique store"
+          },
+          {
+            "id": "a-random-attack-outside-the-building",
+            "label": "A random attack outside the building"
+          },
+          {
+            "id": "a-fall-caused-by-the-crowd",
+            "label": "A fall caused by the crowd"
+          },
+          {
+            "id": "an-accidental-mix-up-at-the-bar",
+            "label": "An accidental mix-up at the bar"
+          }
+        ]
+      },
+      {
+        "id": "final-3",
+        "stage": "final",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 3: Why was Elise killed?",
+        "correctOptionId": "motive",
+        "options": [
+          {
+            "id": "motive",
+            "label": "To recover a hidden ledger proving he had been skimming cash from after-hours events"
+          },
+          {
+            "id": "because-she-won-a-trivia-prize",
+            "label": "Because she won a trivia prize"
+          },
+          {
+            "id": "because-she-arrived-late",
+            "label": "Because she arrived late"
+          },
+          {
+            "id": "because-she-insulted-the-decor",
+            "label": "Because she insulted the decor"
+          }
+        ]
+      },
+      {
+        "id": "final-4",
+        "stage": "final",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 4: Which location detail is essential?",
+        "correctOptionId": "venue-link",
+        "options": [
+          {
+            "id": "venue-link",
+            "label": "Heresay Speakeasy is attached to Circa 1857, creating a shared hidden movement path"
+          },
+          {
+            "id": "the-venue-has-a-front-door",
+            "label": "The venue has a front door"
+          },
+          {
+            "id": "the-bar-served-cocktails",
+            "label": "The bar served cocktails"
+          },
+          {
+            "id": "the-antique-store-had-price-tags",
+            "label": "The antique store had price tags"
+          }
+        ]
+      },
+      {
+        "id": "final-5",
+        "stage": "final",
+        "roundId": "hh-detective-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 5: Which idea best describes the solution?",
+        "correctOptionId": "truth-not-rumor",
+        "options": [
+          {
+            "id": "truth-not-rumor",
+            "label": "The killer used gossip as cover, but the physical and digital evidence exposed the truth"
+          },
+          {
+            "id": "the-loudest-witness-was-automatically-ri",
+            "label": "The loudest witness was automatically right"
+          },
+          {
+            "id": "every-rumor-was-equally-reliable",
+            "label": "Every rumor was equally reliable"
+          },
+          {
+            "id": "the-first-suspect-named-by-the-crowd-had",
+            "label": "The first suspect named by the crowd had to be guilty"
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty": "Detective",
+  "difficultyLabel": "Level 4: Detective Case",
+  "gameId": "heresay-homicide",
+  "gameTitle": "Heresay Homicide",
+  "levelId": "detective",
+  "levelName": "Detective",
+  "levelLabel": "Level 4: Detective Case",
+  "caseSubtitle": "The Ledger in the Wall"
+}
