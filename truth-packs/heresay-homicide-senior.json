@@ -1,0 +1,528 @@
+{
+  "id": "heresay-homicide-senior",
+  "title": "Heresay Homicide \u2014 Chapter 5: The Truth Beneath Third Street",
+  "venue": "Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge",
+  "description": "Chapter 5: The Truth Beneath Third Street in one continuous Heresay Homicide mystery. Focus: full deduction across every prior chapter.",
+  "answerKey": {
+    "culprit": "Nora Bellamy",
+    "method": "Used the antique respirator to trigger Elise in the appraisal room, then relied on Marcus, Calvin, Brielle, and Victor each hiding their own smaller crimes to create noise",
+    "motive": "To keep Elise from revealing that the forged ledger concealed Nora\u2019s claim to a valuable hidden Circa 1857 collection",
+    "keyEvidence": "combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log",
+    "explanation": "Chapter 5: The Truth Beneath Third Street closes one layer of the larger story. This final chapter reveals the homicide was one story hidden inside five smaller lies. The proof is combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log."
+  },
+  "publicClues": [
+    {
+      "id": "ch5-pub-000",
+      "unlockSec": 0,
+      "title": "Chapter 5: The Truth Beneath Third Street Opened",
+      "text": "The Real Homicide begins at Heresay Speakeasy at Circa 1857 Antique Store, Baton Rouge. This is not a separate case; it is the next chapter of one larger Heresay Homicide story."
+    },
+    {
+      "id": "ch5-pub-001",
+      "unlockSec": 10,
+      "title": "Venue Note",
+      "text": "Heresay Speakeasy shares walls, storage, service paths, and antique displays with Circa 1857. The building itself is part of the mystery."
+    },
+    {
+      "id": "ch5-pub-002",
+      "unlockSec": 300,
+      "title": "Checkpoint 1 Available",
+      "text": "Round 1 is ready. Start with confirmed scene evidence, not what the crowd repeated."
+    },
+    {
+      "id": "ch5-pub-003",
+      "unlockSec": 600,
+      "title": "Checkpoint 2 Available",
+      "text": "Round 2 is ready. Compare movement through the speakeasy and antique-store connection."
+    },
+    {
+      "id": "ch5-pub-004",
+      "unlockSec": 900,
+      "title": "Checkpoint 3 Available",
+      "text": "Round 3 is ready. Break the witness statement against the timestamped proof."
+    },
+    {
+      "id": "ch5-pub-005",
+      "unlockSec": 1200,
+      "title": "Checkpoint 4 Available",
+      "text": "Round 4 is ready. Identify why this chapter mattered to the larger cover-up."
+    },
+    {
+      "id": "ch5-pub-006",
+      "unlockSec": 1440,
+      "title": "Final Accusation Open",
+      "text": "Final questions are open. Solve this chapter, but remember the larger story is still unfolding."
+    }
+  ],
+  "apps": {
+    "phone": [
+      {
+        "id": "ch5-phone-1",
+        "unlockSec": 60,
+        "title": "Phone Evidence 1",
+        "text": "A call connected to Nora Bellamy appears inside the evidence gap, not after it."
+      },
+      {
+        "id": "ch5-phone-2",
+        "unlockSec": 180,
+        "title": "Phone Evidence 2",
+        "text": "A voicemail fragment says, 'Stop repeating what you heard. Check the wall behind Circa.'"
+      }
+    ],
+    "messages": [
+      {
+        "id": "ch5-messages-1",
+        "unlockSec": 300,
+        "title": "Messages Evidence 1",
+        "text": "Elise texted: 'The rumor is wrong. combined proof: service-door staging matters more.'"
+      },
+      {
+        "id": "ch5-messages-2",
+        "unlockSec": 420,
+        "title": "Messages Evidence 2",
+        "text": "A deleted reply warns Elise that Heresay and Circa are 'the same building when no one is looking.'"
+      }
+    ],
+    "maps": [
+      {
+        "id": "ch5-maps-1",
+        "unlockSec": 540,
+        "title": "Maps Evidence 1",
+        "text": "Location pings jump between the speakeasy hallway and the Circa 1857 rear rooms."
+      },
+      {
+        "id": "ch5-maps-2",
+        "unlockSec": 660,
+        "title": "Maps Evidence 2",
+        "text": "Nora Bellamy is placed closer to the shared passage than the public statement admits."
+      }
+    ],
+    "bank": [
+      {
+        "id": "ch5-bank-1",
+        "unlockSec": 780,
+        "title": "Bank Evidence 1",
+        "text": "A payment note tied to an antique-store account was edited before the police arrived."
+      },
+      {
+        "id": "ch5-bank-2",
+        "unlockSec": 900,
+        "title": "Bank Evidence 2",
+        "text": "The financial trail points toward the chapter motive: To keep Elise from revealing that the forged ledger concealed Nora\u2019s claim to a valuable hidden Circa 1857 collection."
+      }
+    ],
+    "photos": [
+      {
+        "id": "ch5-photos-1",
+        "unlockSec": 1020,
+        "title": "Photos Evidence 1",
+        "text": "A guest photo catches the antique display reflection behind the crowd."
+      },
+      {
+        "id": "ch5-photos-2",
+        "unlockSec": 1140,
+        "title": "Photos Evidence 2",
+        "text": "Zooming the reflection supports the key proof: combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log."
+      }
+    ],
+    "social": [
+      {
+        "id": "ch5-social-1",
+        "unlockSec": 1260,
+        "title": "Social Evidence 1",
+        "text": "A rumor post spreads faster than the official timeline, but it has no original witness attached."
+      },
+      {
+        "id": "ch5-social-2",
+        "unlockSec": 1380,
+        "title": "Social Evidence 2",
+        "text": "An edited caption removes the line that connected Elise to the Circa side of the building."
+      }
+    ],
+    "contacts": [
+      {
+        "id": "ch5-contacts-1",
+        "unlockSec": 60,
+        "title": "Contacts Evidence 1",
+        "text": "Elise saved Nora Bellamy with a note: 'ask again after closing.'"
+      },
+      {
+        "id": "ch5-contacts-2",
+        "unlockSec": 180,
+        "title": "Contacts Evidence 2",
+        "text": "A staff contact card shows who could access the shared service areas."
+      }
+    ],
+    "notes": [
+      {
+        "id": "ch5-notes-1",
+        "unlockSec": 300,
+        "title": "Notes Evidence 1",
+        "text": "Detective note: Chapter 5 is about full deduction across every prior chapter. The rumor is only useful when it contradicts proof."
+      },
+      {
+        "id": "ch5-notes-2",
+        "unlockSec": 420,
+        "title": "Notes Evidence 2",
+        "text": "Elise wrote: 'If I disappear, start with Circa 1857, not the bar.'"
+      }
+    ],
+    "files": [
+      {
+        "id": "ch5-files-1",
+        "unlockSec": 540,
+        "title": "Files Evidence 1",
+        "text": "The file export highlights the key proof: combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log"
+      },
+      {
+        "id": "ch5-files-2",
+        "unlockSec": 660,
+        "title": "Files Evidence 2",
+        "text": "Metadata shows the evidence was opened before the crowd began naming suspects."
+      }
+    ],
+    "browser": [
+      {
+        "id": "ch5-browser-1",
+        "unlockSec": 780,
+        "title": "Browser Evidence 1",
+        "text": "A search for antique appraisal fraud appears before the public argument."
+      },
+      {
+        "id": "ch5-browser-2",
+        "unlockSec": 900,
+        "title": "Browser Evidence 2",
+        "text": "A second search asks how to erase timestamp metadata after a post has already been shared."
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "id": "hh-ch5-round-1",
+      "title": "Round 1: The Rumor Starts",
+      "shortTitle": "R1",
+      "startSec": 0,
+      "endSec": 300,
+      "objective": "Separate the first public story from what the scene actually proves.",
+      "dialogue": "Chapter 5 is open: The Truth Beneath Third Street. This is one continuing Heresay Homicide story. Each answer should separate verified proof from hearsay.",
+      "countdownReview": "Checkpoint 1 is nearly complete. Lock in what Chapter 5 proves before the next layer opens."
+    },
+    {
+      "id": "hh-ch5-round-2",
+      "title": "Round 2: The Passage Opens",
+      "shortTitle": "R2",
+      "startSec": 300,
+      "endSec": 600,
+      "objective": "Track movement between Heresay Speakeasy and the attached Circa 1857 antique store.",
+      "dialogue": "Chapter 5 is open: The Truth Beneath Third Street. This is one continuing Heresay Homicide story. Each answer should separate verified proof from hearsay.",
+      "countdownReview": "Checkpoint 2 is nearly complete. Lock in what Chapter 5 proves before the next layer opens."
+    },
+    {
+      "id": "hh-ch5-round-3",
+      "title": "Round 3: The Statement Breaks",
+      "shortTitle": "R3",
+      "startSec": 600,
+      "endSec": 900,
+      "objective": "Find which statement collapses when digital evidence is compared to physical evidence.",
+      "dialogue": "Chapter 5 is open: The Truth Beneath Third Street. This is one continuing Heresay Homicide story. Each answer should separate verified proof from hearsay.",
+      "countdownReview": "Checkpoint 3 is nearly complete. Lock in what Chapter 5 proves before the next layer opens."
+    },
+    {
+      "id": "hh-ch5-round-4",
+      "title": "Round 4: The Motive Sharpens",
+      "shortTitle": "R4",
+      "startSec": 900,
+      "endSec": 1200,
+      "objective": "Connect the money, reputation, object, or history motive to the suspect.",
+      "dialogue": "Chapter 5 is open: The Truth Beneath Third Street. This is one continuing Heresay Homicide story. Each answer should separate verified proof from hearsay.",
+      "countdownReview": "Checkpoint 4 is nearly complete. Lock in what Chapter 5 proves before the next layer opens."
+    },
+    {
+      "id": "hh-ch5-round-5",
+      "title": "Round 5: The Chapter Truth",
+      "shortTitle": "R5",
+      "startSec": 1200,
+      "endSec": 1440,
+      "objective": "Name what this chapter truly proves before the larger story continues.",
+      "dialogue": "Chapter 5 is open: The Truth Beneath Third Street. This is one continuing Heresay Homicide story. Each answer should separate verified proof from hearsay.",
+      "countdownReview": "Checkpoint 5 is nearly complete. Lock in what Chapter 5 proves before the next layer opens."
+    }
+  ],
+  "openingNarration": "Detectives, welcome to Chapter 5: The Truth Beneath Third Street: The Real Homicide. Heresay Speakeasy is attached to Circa 1857 antique store, so this murder is solved by tracking what moves through both spaces. This is one continuous story; each chapter gets harder and reveals a deeper layer.",
+  "revealScript": "Chapter closed. Chapter 5: The Truth Beneath Third Street revealed that Nora Bellamy was responsible for this layer. Method: Used the antique respirator to trigger Elise in the appraisal room, then relied on Marcus, Calvin, Brielle, and Victor each hiding their own smaller crimes to create noise. Motive: To keep Elise from revealing that the forged ledger concealed Nora\u2019s claim to a valuable hidden Circa 1857 collection. Key proof: combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log. Larger-story meaning: This final chapter reveals the homicide was one story hidden inside five smaller lies.",
+  "accusation": {
+    "questions": [
+      {
+        "id": "cp1",
+        "stage": "checkpoint",
+        "roundId": "hh-ch5-round-1",
+        "unlockSec": 300,
+        "prompt": "Checkpoint 1: What should detectives trust first?",
+        "correctOptionId": "confirmed-proof",
+        "options": [
+          {
+            "id": "wrong-cp1-1",
+            "label": "The loudest rumor in the room"
+          },
+          {
+            "id": "wrong-cp1-2",
+            "label": "A repost without a timestamp"
+          },
+          {
+            "id": "confirmed-proof",
+            "label": "The confirmed scene detail that matches physical evidence"
+          },
+          {
+            "id": "wrong-cp1-3",
+            "label": "A witness repeating someone else\u2019s story"
+          }
+        ]
+      },
+      {
+        "id": "cp2",
+        "stage": "checkpoint",
+        "roundId": "hh-ch5-round-2",
+        "unlockSec": 600,
+        "prompt": "Checkpoint 2: Why does the Circa 1857 connection matter?",
+        "correctOptionId": "shared-building",
+        "options": [
+          {
+            "id": "wrong-cp2-1",
+            "label": "The antiques make the room look older"
+          },
+          {
+            "id": "wrong-cp2-2",
+            "label": "The bar has a vintage theme"
+          },
+          {
+            "id": "shared-building",
+            "label": "The shared passage means the speakeasy and antique store can create one hidden movement path"
+          },
+          {
+            "id": "wrong-cp2-3",
+            "label": "The front door was crowded"
+          }
+        ]
+      },
+      {
+        "id": "cp3",
+        "stage": "checkpoint",
+        "roundId": "hh-ch5-round-3",
+        "unlockSec": 900,
+        "prompt": "Checkpoint 3: What breaks the public story?",
+        "correctOptionId": "timestamp-conflict",
+        "options": [
+          {
+            "id": "wrong-cp3-1",
+            "label": "A decorative antique label"
+          },
+          {
+            "id": "wrong-cp3-2",
+            "label": "A drink receipt with no names"
+          },
+          {
+            "id": "timestamp-conflict",
+            "label": "The timestamped evidence contradicts the repeated witness statement"
+          },
+          {
+            "id": "wrong-cp3-3",
+            "label": "A rumor that the lights flickered"
+          }
+        ]
+      },
+      {
+        "id": "cp4",
+        "stage": "checkpoint",
+        "roundId": "hh-ch5-round-4",
+        "unlockSec": 1200,
+        "prompt": "Checkpoint 4: What is the chapter motive?",
+        "correctOptionId": "motive",
+        "options": [
+          {
+            "id": "wrong-cp4-1",
+            "label": "A random argument over seating"
+          },
+          {
+            "id": "wrong-cp4-2",
+            "label": "A parking disagreement"
+          },
+          {
+            "id": "motive",
+            "label": "To keep Elise from revealing that the forged ledger concealed Nora\u2019s claim to a valuable hidden Circa 1857 collection"
+          },
+          {
+            "id": "wrong-cp4-3",
+            "label": "A stranger with no connection to the building"
+          }
+        ]
+      },
+      {
+        "id": "cp5",
+        "stage": "checkpoint",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Checkpoint 5: What does this chapter prove?",
+        "correctOptionId": "chapter-layer",
+        "options": [
+          {
+            "id": "wrong-cp5-1",
+            "label": "The first rumor solved everything"
+          },
+          {
+            "id": "wrong-cp5-2",
+            "label": "Every suspect told the complete truth"
+          },
+          {
+            "id": "chapter-layer",
+            "label": "This final chapter reveals the homicide was one story hidden inside five smaller lies."
+          },
+          {
+            "id": "wrong-cp5-3",
+            "label": "The antique store was irrelevant"
+          }
+        ]
+      },
+      {
+        "id": "final-1",
+        "stage": "final",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 1: Who is responsible for this chapter\u2019s revealed crime layer?",
+        "correctOptionId": "culprit",
+        "options": [
+          {
+            "id": "wrong-final-1-1",
+            "label": "Calvin Reed"
+          },
+          {
+            "id": "wrong-final-1-2",
+            "label": "Brielle St. James"
+          },
+          {
+            "id": "culprit",
+            "label": "Nora Bellamy"
+          },
+          {
+            "id": "wrong-final-1-3",
+            "label": "An unknown tourist"
+          }
+        ]
+      },
+      {
+        "id": "final-2",
+        "stage": "final",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 2: What was the method or cover-up move?",
+        "correctOptionId": "method",
+        "options": [
+          {
+            "id": "wrong-final-2-1",
+            "label": "A random collapse in the crowd"
+          },
+          {
+            "id": "wrong-final-2-2",
+            "label": "An accidental spill at the bar"
+          },
+          {
+            "id": "method",
+            "label": "Used the antique respirator to trigger Elise in the appraisal room, then relied on Marcus, Calvin, Brielle, and Victor each hiding their own smaller crimes to create noise"
+          },
+          {
+            "id": "wrong-final-2-3",
+            "label": "A fight outside the building"
+          }
+        ]
+      },
+      {
+        "id": "final-3",
+        "stage": "final",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 3: Why did this happen?",
+        "correctOptionId": "final-motive",
+        "options": [
+          {
+            "id": "wrong-final-3-1",
+            "label": "Because Elise arrived late"
+          },
+          {
+            "id": "wrong-final-3-2",
+            "label": "Because a guest disliked the music"
+          },
+          {
+            "id": "final-motive",
+            "label": "To keep Elise from revealing that the forged ledger concealed Nora\u2019s claim to a valuable hidden Circa 1857 collection"
+          },
+          {
+            "id": "wrong-final-3-3",
+            "label": "Because the bar was too crowded"
+          }
+        ]
+      },
+      {
+        "id": "final-4",
+        "stage": "final",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 4: Which evidence proves the chapter?",
+        "correctOptionId": "keyEvidence",
+        "options": [
+          {
+            "id": "wrong-final-4-1",
+            "label": "A rumor thread with no source"
+          },
+          {
+            "id": "wrong-final-4-2",
+            "label": "A napkin with no fingerprints"
+          },
+          {
+            "id": "keyEvidence",
+            "label": "combined proof: service-door staging, cabinet ledger metadata, edited rumor post, respirator fibers, and Nora\u2019s private call log"
+          },
+          {
+            "id": "wrong-final-4-3",
+            "label": "A decorative price tag"
+          }
+        ]
+      },
+      {
+        "id": "final-5",
+        "stage": "final",
+        "roundId": "hh-ch5-round-5",
+        "unlockSec": 1440,
+        "prompt": "Final 5: How does this fit the larger story?",
+        "correctOptionId": "larger-story",
+        "options": [
+          {
+            "id": "wrong-final-5-1",
+            "label": "It ends the entire mystery with no loose ends"
+          },
+          {
+            "id": "wrong-final-5-2",
+            "label": "It proves hearsay is always reliable"
+          },
+          {
+            "id": "larger-story",
+            "label": "This final chapter reveals the homicide was one story hidden inside five smaller lies."
+          },
+          {
+            "id": "wrong-final-5-3",
+            "label": "It removes Circa 1857 from the case"
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty": "Senior Detective",
+  "difficultyLabel": "Chapter 5: The Truth Beneath Third Street",
+  "gameId": "heresay-homicide",
+  "gameTitle": "Heresay Homicide",
+  "levelId": "senior",
+  "levelName": "The Truth Beneath Third Street",
+  "levelLabel": "Chapter 5: The Truth Beneath Third Street",
+  "caseSubtitle": "The Real Homicide",
+  "chapterNumber": 5,
+  "chapterName": "The Truth Beneath Third Street",
+  "storyMode": "continuous"
+}
